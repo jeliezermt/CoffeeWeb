@@ -1,2 +1,2 @@
 # CoffeeWeb
-A website about coffee using HTML and CSS. Project for online course.
+A website about coffee using HTML and CSS. Project for online course in Alison.
